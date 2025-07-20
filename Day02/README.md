@@ -53,18 +53,18 @@ Before running the VM, enable the following Windows features:
 
 1. Open the extracted Kali Linux folder.
 2. Double-click the `.vbox` file to open it in VirtualBox.
-<img width="815" height="518" alt="image" src="https://github.com/user-attachments/assets/c17b0b41-4a37-488a-ad92-1c908b78981f" />
-<img width="1131" height="773" alt="image" src="https://github.com/user-attachments/assets/e1727010-c94e-4c12-9ad1-f0ff6fd8f66d" />
+<img width="600" height="318" alt="image" src="https://github.com/user-attachments/assets/c17b0b41-4a37-488a-ad92-1c908b78981f" />
+<img width="900" height="560" alt="image" src="https://github.com/user-attachments/assets/e1727010-c94e-4c12-9ad1-f0ff6fd8f66d" />
 3. In VirtualBox, click **Settings**:
    - Allocate memory (RAM) (e.g., 2048 MB or more).
 
-   <img width="658" height="247" alt="image" src="https://github.com/user-attachments/assets/7071a09e-5398-4ee6-8262-0b7518e067d6" />
+   <img width="558" height="197" alt="image" src="https://github.com/user-attachments/assets/7071a09e-5398-4ee6-8262-0b7518e067d6" />
 
 
    - Assign CPU cores (e.g., 2 or more).
 
      
-   <img width="686" height="270" alt="image" src="https://github.com/user-attachments/assets/264b39f9-2965-47ae-8729-da095fa9abea" />
+   <img width="586" height="200" alt="image" src="https://github.com/user-attachments/assets/264b39f9-2965-47ae-8729-da095fa9abea" />
 
 
 4. Click **Start** to boot the virtual machine.
