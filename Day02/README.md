@@ -53,6 +53,7 @@ Before running the VM, enable the following Windows features:
 
 1. Open the extracted Kali Linux folder.
 2. Double-click the `.vbox` file to open it in VirtualBox.
+<img width="815" height="518" alt="image" src="https://github.com/user-attachments/assets/c17b0b41-4a37-488a-ad92-1c908b78981f" />
 <img width="1131" height="773" alt="image" src="https://github.com/user-attachments/assets/e1727010-c94e-4c12-9ad1-f0ff6fd8f66d" />
 3. In VirtualBox, click **Settings**:
    - Allocate memory (RAM) (e.g., 2048 MB or more).
