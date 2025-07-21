@@ -55,8 +55,9 @@ Before running the VM, enable the following Windows features:
 2. Double-click the `.vbox` file to open it in VirtualBox.
 <img width="600" height="318" alt="image" src="https://github.com/user-attachments/assets/c17b0b41-4a37-488a-ad92-1c908b78981f" />
 <img width="900" height="560" alt="image" src="https://github.com/user-attachments/assets/e1727010-c94e-4c12-9ad1-f0ff6fd8f66d" />
-3. In VirtualBox, click **Settings**:
-   - Allocate memory (RAM) (e.g., 2048 MB or more).
+3. In VirtualBox, click Settings:
+   
+   -  Allocate memory (RAM) (e.g., 2048 MB or more).
 
    <img width="558" height="197" alt="image" src="https://github.com/user-attachments/assets/7071a09e-5398-4ee6-8262-0b7518e067d6" />
 
