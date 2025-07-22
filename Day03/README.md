@@ -54,3 +54,6 @@
   ```bash
   git push
   ```
+---
+# chmod
+<img width="794" height="397" alt="image" src="https://github.com/user-attachments/assets/3eb26ee2-af46-4a77-9ebb-35827b890f1e" />
